@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Week 1
-by: Michael Adeleke
+by: Manoj Rawal
 ---
 
-During the first week, I met with Dr. Crawford and my mentors to discuss the project 
-that I will be working on and gained an understanding of what Dr. Crawford will be looking for. 
-Dr. Crawford also explained to me what, "Physiological Computing Education", is along 
-with the differences between EEG and EMG.
-
+During the first week, we got warmed welcomed and introduced ourself to the whole research community member. We have our institute orientation and also meet up with the team member and had launch with the team member. I met with my team member and my mentor Zheng Li and Guiliang Liu. We discussed about our group project which is about the machine learning to stimule drug deliver in nasal cavity. 
 [Back](./)
