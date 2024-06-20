@@ -1,9 +1,8 @@
 ## About My Project
 
-mBot Neo
+Reduced order model development with machine learning to simulate drug delivery in nasal cavity
 
-Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
-
+Problem: 
 Approach: During this project, I will assist a team in designing a system that accomplishes the following:
 
   - Capture physiological data such as EEG and EMG from the human body.
