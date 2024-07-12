@@ -3,6 +3,7 @@ layout: post
 title: Week 6
 author: Manoj Rawal
 ---
+
 This week, our project activities took place in the lab rather than the Business Building. Returning to the lab allowed us to pick up where we left off last week and dive back into the detailed and intricate work that our project demands. We moved forward to the next crucial step: working on the simplified model. These models are based on samples provided by the University of North Carolina, adding a layer of authenticity and real-world relevance to our work. We focused intensely on these models, continuously iterating and refining them. The process involved running numerous simulations to test various hypotheses and ensure the accuracy and reliability of our results. This rigorous approach is essential for the success of our project, as each iteration helps us identify potential issues and make necessary adjustments.
 
 A significant part of our week was supposed to be dedicated to our Mid-Summer presentation. This presentation was an important milestone, designed to showcase our progress, findings, and the direction of our research to date. However, due to unforeseen technical problems, we were unable to present. While this was a setback, we decided to use the additional time to further concentrate on our lab work and model development.
